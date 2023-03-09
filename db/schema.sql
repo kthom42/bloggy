@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS bloggy_db;
+
+CREATE DATABASE bloggy_db;
